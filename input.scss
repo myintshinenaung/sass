@@ -1,0 +1,17 @@
+$primary : "yellow";
+$text-color : "black";
+
+.bg-primary {
+background-color: $primary;
+
+}
+
+.text-primary {
+color: $text-color;
+
+} 
+
+.border-primary {
+border-color: $primary;
+color: $text-color;
+}

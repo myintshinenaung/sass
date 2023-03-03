@@ -1,0 +1,14 @@
+.bg-primary {
+  background-color: "yellow";
+}
+
+.text-primary {
+  color: "black";
+}
+
+.border-primary {
+  border-color: "yellow";
+  color: "black";
+}
+
+/*# sourceMappingURL=output.css.map */
